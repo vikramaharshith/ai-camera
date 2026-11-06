@@ -7,8 +7,7 @@ browser application that uses the live camera to detect and track objects, with 
 
 ## Start here
 
-**(docs/AI_Camera_Architecture_Beginners_Guide.pdf)**
-
+**[Read the beginner-friendly 10-page architecture guide (PDF)](docs/AI_Camera_Architecture_Beginners_Guide.pdf)**
 The PDF includes:
 
 - A big step-by-step architecture flowchart
