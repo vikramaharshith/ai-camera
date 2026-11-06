@@ -1,12 +1,13 @@
 # AI Camera - Project Planning
 
-A future mobile-friendly browser application that uses the live camera to detect and track everyday objects, with **no required paid API or backend**.
+browser application that uses the live camera to detect and track objects, with **no required paid API or backend**.
 
-> **Status:** Planning only. No application code has been written yet.
+> **Status:** Planning only.
+> No application code has been written yet.
 
 ## Start here
 
-**[Read the beginner-friendly 10-page architecture guide (PDF)](docs/AI_Camera_Architecture_Beginners_Guide.pdf)**
+**(docs/AI_Camera_Architecture_Beginners_Guide.pdf)**
 
 The PDF includes:
 
